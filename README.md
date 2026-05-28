@@ -204,7 +204,7 @@ The analysis reveals several important automotive trends:
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/auto-mpg-analytics-platform.git
+git clone https://github.com/Chowdri-Furkhan07/auto-mpg-analytics-platform.git
 ```
 
 ---
