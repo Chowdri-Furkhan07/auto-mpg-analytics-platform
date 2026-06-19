@@ -195,7 +195,7 @@ The analysis reveals several important automotive trends:
 
 ## 🚀 Streamlit Application
 
-🔗 [Live Demo]()
+🔗 [Auto MPG Analytics Dashboard Using Python]()
 
 ---
 
